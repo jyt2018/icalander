@@ -1,2 +1,3 @@
 # icalander
-use exif info(EXIF DateTimeOriginal / Image Datetime) to rename a picture file's name 
+## 功能：给定一个日期和标题，就可以产生日历。日历ics文件可以安装到手机的日历里。
+## 例子：另外一个程序是一个范例，记录了烟台莱山区的赶集日历
